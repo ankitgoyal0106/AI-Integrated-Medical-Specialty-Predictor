@@ -4,14 +4,6 @@ This repository contains the implementation and results of the **AI-Powered Diag
 
 ---
 
-## Problem Statement
-
-Healthcare providers in underserved regions often face delays in diagnosing medical conditions due to a lack of specialized expertise. These delays can significantly impact patient outcomes. 
-
-To address this, we developed an AI-based diagnostic tool capable of predicting medical specialties from patient records, clinical transcriptions, and keywords. This tool improves referral accuracy, reduces diagnostic delays, and enhances overall patient outcomes, particularly in areas with limited access to specialists.
-
----
-
 ## Dataset
 
 - **Source**: [Medical Transcriptions Dataset (Kaggle)](https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions/data)
